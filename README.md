@@ -1,2 +1,4 @@
 # Online-Linear-Programming-and-Resource-Allocation
-This is the project of course DDA 4300 taught by Prof. Yinyu Ye. 
+This is the course project for DDA 4300 Optimization in Data Science and Machine Learning taught by Prof. Yinyu Ye (Spring 2023). 
+In this project, we implement offline and online SLPM and SCPM algorithms as well as AHDL (Action-history-dependent Learning) algorithm to solve the resource aloocation problem. We compare their effects under different parameter settings. Furthermore, we put forward our own Window Shift Learning Algorithm to deal with data under non i.i.d. assumptions. The detailed project requirements are in the "project.pdf" file. The code can also be found in colab: https://colab.research.google.com/drive/1-7cO1q9x3JkIK5DZYP-OHABVB9m9xUZQ?usp=sharing
+The final report is in "4300project.pdf" file.
